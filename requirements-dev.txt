@@ -6,3 +6,4 @@ pytest-httpbin>=0.0.6
 docutils
 wheel
 pycodestyle
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
